@@ -1,4 +1,4 @@
-$ Git knowledge
+# Git knowledge
 
 ## Checkout specific tag
 
