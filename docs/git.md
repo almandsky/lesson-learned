@@ -15,3 +15,13 @@ git fetch --all --tags --prune
 ```
 git checkout tags/<tag_name> -b <branch_name>
 ```
+
+### sync the remote branch
+
+```
+git checkout master
+git pull
+git fetch upstream
+git merge upstream/master
+git push
+```
