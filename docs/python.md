@@ -20,6 +20,13 @@ sudo apt-get install python-opencv
 sudo apt-get install python3-opencv
 ```
 
+### install mpi4py
+
+```
+sudo apt install libopenmpi-dev
+pip install mpi4py
+```
+
 
 ## Raspberry Pi
 
